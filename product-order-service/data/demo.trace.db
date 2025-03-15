@@ -1,0 +1,9 @@
+2025-03-15 19:43:54.365631+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]CART_ITEMS"; expected "COMMIT, CREATE, CALL, CHECKPOINT, COMMENT"; SQL statement:
+CART_ITEMS [42001-232]
+2025-03-15 19:47:33.409101+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]ORDERS"; SQL statement:
+ORDERS [42000-232]
+2025-03-15 20:27:17.618317+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CART" not found; SQL statement:
+SELECT * FROM cart [42102-232]
