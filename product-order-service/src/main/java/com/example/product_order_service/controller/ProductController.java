@@ -24,7 +24,7 @@ import com.example.product_order_service.entity.Product;
 import com.example.product_order_service.service.ProductService;
 
 @RestController
-@RequestMapping("/product")
+@RequestMapping("/api/product")
 public class ProductController {
 
     @Autowired
