@@ -7,8 +7,19 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.36/5a30490a6e14977d97d9c73c924c1f1b5311ea95/lombok-1.18.36.jar" />
         </processorPath>
-        <module name="auth-service.main" />
+        <module name="product-order-service.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth-service" target="17" />
+      <module name="auth-service.main" target="17" />
+      <module name="auth-service.test" target="17" />
+      <module name="gateway" target="17" />
+      <module name="gateway.main" target="17" />
+      <module name="gateway.test" target="17" />
+      <module name="product-order-service" target="17" />
+      <module name="product-order-service.main" target="17" />
+      <module name="product-order-service.test" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
