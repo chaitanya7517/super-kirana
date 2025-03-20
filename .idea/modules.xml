@@ -3,8 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Mahakal.iml" filepath="$PROJECT_DIR$/.idea/Mahakal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-service.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-order-service.iml" filepath="$PROJECT_DIR$/.idea/modules/product-order-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-order-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-order-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/product-order-service.test.iml" />
     </modules>
   </component>
 </project>
